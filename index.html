@@ -3912,6 +3912,8 @@ for (const d of DATA) {
   if (exam) enterExamUI();
   setMode(!exam && store.get('mode') === 'tab' ? 'tab' : 'mer');
 })();
+// Fuera de claude.ai no hay chat con Claude: se oculta el botón para no confundir
+if (!(window.claude && window.claude.use)) { const b = document.getElementById('btnAsk'); if (b) b.hidden = true; }
 </script>
 
 </body></html>
