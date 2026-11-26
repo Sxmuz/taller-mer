@@ -4,6 +4,8 @@ Aplicación web para **practicar el Modelo Entidad-Relación (MER)** y el **paso
 
 Es un único archivo HTML: no necesita instalación, servidor ni cuenta. Ábrelo en el navegador y empieza a practicar.
 
+**👉 Pruébalo online: [sxmuz.github.io/taller-mer](https://sxmuz.github.io/taller-mer/)**
+
 ## Qué puedes hacer
 
 - **Subrayar el enunciado** con rotuladores de colores (entidad, relación, atributo) y pasar las palabras al diagrama con doble clic.
@@ -26,7 +28,7 @@ Incluye 10 ejercicios por niveles (fácil, medio, difícil y examen), cada uno c
 1. Descarga `index.html` (o clona el repositorio).
 2. Ábrelo con cualquier navegador moderno (Chrome, Edge, Firefox).
 
-También se puede publicar tal cual con GitHub Pages.
+O úsalo directamente online en [sxmuz.github.io/taller-mer](https://sxmuz.github.io/taller-mer/).
 
 > El botón «Preguntar a Claude» solo funciona cuando la app se abre como artefacto en claude.ai. En el resto de casos se oculta y todo lo demás funciona igual.
 
